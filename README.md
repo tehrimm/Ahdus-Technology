@@ -1,5 +1,4 @@
-```markdown
-# 🚀 AI-Powered Job Portal (React & Tailwind CSS)
+### 🚀 AI-Powered Job Portal (React & Tailwind CSS)
 
 An AI-driven recruitment system built with **React** and **Tailwind CSS**. This platform provides a **seamless hiring experience** for both **employees and companies**, integrating AI-powered features to enhance **job searching, candidate matching, and recruitment processes**.
 
